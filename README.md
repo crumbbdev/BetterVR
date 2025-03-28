@@ -12,4 +12,4 @@ As of **January 26th, 2025**, Some other modpacks include shaders and other mods
 
 ---
 
-Report any bugs on the GitHub repo <3 [Coming January 26]
+Report any bugs on the GitHub repo <3
